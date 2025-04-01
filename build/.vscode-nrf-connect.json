@@ -1,0 +1,19 @@
+{
+  "toolchainPath": "c:\\ncs\\toolchains\\2d382dcd92",
+  "sdkPath": "c:\\ncs\\v2.7.0",
+  "board": "nrf9160dk/nrf9160",
+  "boardDirs": [
+    "c:\\ncs\\v2.7.0\\zephyr\\boards\\nordic\\nrf9160dk"
+  ],
+  "boardRevision": "",
+  "boardDir": "c:\\ncs\\v2.7.0\\zephyr\\boards\\nordic\\nrf9160dk",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}
